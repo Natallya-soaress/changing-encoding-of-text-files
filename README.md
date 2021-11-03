@@ -1,2 +1,2 @@
 # Changing-Encoding-of-Text-Files
-Algorithms for changing the encoding of text files
+Algorithms that change the encoding of text files using python.
